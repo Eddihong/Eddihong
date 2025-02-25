@@ -12,9 +12,9 @@ I'm an aspiring **software developer** passionate about building innovative solu
   
   ## Other skills
 
-- **Photo and video editing(intermediate)
-- **3d design/art(Beginner)
-- **Photography/Videography(Intermediate)
+- **Photo and video editing(intermediate)**
+- **3d design/art(Beginner)**
+- **Photography/Videography(Intermediate)**
   
 
 ## 🌱 Learning & Building
